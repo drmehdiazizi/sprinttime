@@ -6,8 +6,7 @@
 
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download%20SprintTime-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.sprinttime.app)
 
-👉 **[Download SprintTime for Android](https://play.google.com/store/apps/details?id=com.sprinttime.app)**
-
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.sprinttime.app)
 ---
 
 ## 🏃 What is SprintTime?
