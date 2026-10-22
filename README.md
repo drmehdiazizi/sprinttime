@@ -1,6 +1,6 @@
 # 🏃 SprintTime — Sprint Timing & Video Analysis
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/fokIEpREVu2zF3rrZBoQVWec5m4k3VCTE_FSjNnBkEKp_lf9HwxJntzbhr6yrMMiuuDt0dKoRVMMlPSzIYc8=w240-h480-rw" alt="DynamicCrop app icon" width="160">
+  <img src="./icon.png" alt="DynamicCrop app icon" width="160">
 </p>
 **SprintTime is a sprint timing and video analysis app for measuring running and sprint performance from video.** Analyze sprint videos frame by frame, measure elapsed time with millisecond precision, analyze 100m and 200m sprints, measure reaction time, add finish points, zoom into video, and export timed performance videos.
 
